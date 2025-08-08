@@ -111,14 +111,6 @@ python main.py -i /path/to/schedule.html -o /path/to/output/calendar.ics
 python main.py --help
 ```
 
-## File Structure
-
-- `main.py` - Main parser script
-- `README.md` - English documentation (this file)
-- `README_vi.md` - Vietnamese documentation (Tài liệu tiếng Việt)
-- `kma_schedule.ics` - Generated calendar file
-- `pyproject.toml` - Project dependencies
-
 ## How it Works
 
 The parser:
