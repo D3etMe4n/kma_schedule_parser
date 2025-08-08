@@ -28,7 +28,7 @@ Vì dự án bao gồm file `pyproject.toml` với tất cả dependencies đư�
 pip install .
 ```
 
-### Sử dụng uv (thay thế nhanh hơn)
+### Sử dụng uv (nhanh hơn)
 Nếu bạn đã cài [uv](https://github.com/astral-sh/uv):
 ```bash
 uv pip install .
