@@ -1,4 +1,4 @@
-# Trình Phân Tích Thời Khóa Biểu KMA
+# KMA Schedule Parser
 
 **Ngôn ngữ:** [🇺🇸 English](README.md) | [🇻🇳 Tiếng Việt](README_vi.md)
 
