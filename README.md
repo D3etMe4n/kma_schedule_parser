@@ -15,7 +15,7 @@ A Python tool to parse school schedules from KMA (Học viện Kỹ thuật Mậ
 
 ## Requirements
 
-- Python 3.9+
+- Python 3.12+
 - beautifulsoup4
 - icalendar
 
