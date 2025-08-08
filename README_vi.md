@@ -113,12 +113,6 @@ python main.py -i /path/to/schedule.html -o /path/to/output/calendar.ics
 python main.py --help
 ```
 
-## Cấu trúc file
-
-- `main.py` - Script phân tích chính
-- `kma_schedule.ics` - File lịch được tạo
-- `pyproject.toml` - Dependencies của dự án
-
 ## Cách hoạt động
 
 Trình phân tích:
