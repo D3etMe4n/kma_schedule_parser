@@ -15,7 +15,7 @@ Công cụ Python để phân tích thời khóa biểu từ định dạng HTML
 
 ## Yêu cầu
 
-- Python 3.9+
+- Python 3.12+
 - beautifulsoup4
 - icalendar
 
