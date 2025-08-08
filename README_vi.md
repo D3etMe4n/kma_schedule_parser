@@ -203,4 +203,4 @@ Nếu bạn gặp vấn đề:
 
 ## Giấy phép
 
-Dự án này được cung cấp như hiện tại cho mục đích giáo dục.
+[LICENSE](LICENSE)
